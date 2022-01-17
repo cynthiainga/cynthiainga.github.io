@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Hi 👋, I'm Cynthia Inga Candy
+        Software Developer
+        
 
-You can use the [editor on GitHub](https://github.com/cynthiainga/cynthiainga.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm student at ![](https://img.shields.io/badge/Microverse-blueviolet) online school for software developers and I have a degree in Electronic and Telecommunication Eng. at ULK(Université Libre de Kigali or Independent universty of Kigali)
+<!-- You can use the [editor on GitHub](https://github.com/cynthiainga/cynthiainga.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 ### Markdown
 
