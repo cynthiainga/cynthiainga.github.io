@@ -1,40 +1,82 @@
-## Hi 👋, I'm Cynthia Inga Candy
-        Software Developer
-        
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-I'm student at ![](https://img.shields.io/badge/Microverse-blueviolet) online school for software developers and I have a degree in Electronic and Telecommunication Eng. at ULK(Université Libre de Kigali or Independent universty of Kigali)
-<!-- You can use the [editor on GitHub](https://github.com/cynthiainga/cynthiainga.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Personal Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
+> This project help to know how to build the portfolio and portfolio is one of the most powerful tools in our software developer toolbox; it’s the easiest way of showing what we’re truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what we can bring to their teams.
 
-### Markdown
+## Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mobile version Screenshot:
 
-```markdown
-Syntax highlighted code block
+![screenshot](./image/Screenshot1.png/)
 
-# Header 1
-## Header 2
-### Header 3
+### Desktop version Screenshot:
 
-- Bulleted
-- List
+![screenshot](./image/screenshot2.png/)
 
-1. Numbered
-2. List
+The objectives of this project is to:
 
-**Bold** and _Italic_ and `Code` text
+- Understand how to parse a Figma design to create a UI.
+- Flexbox to place elements in the page.
+- Build a personal portfolio site.
+- Use images and backgrounds to enhance the look of the website.
+- Create forms with HTML5 validations.
+- Understand the importance of UX.
+- Understand how to create UIs adaptable to different screen sizes using media queries.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Built With
 
-### Jekyll Themes
+- HTML
+- CSS
+- CSS Flexbox
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cynthiainga/cynthiainga.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Live Demo
 
-### Support or Contact
+[Portfolio Link](https://cynthiainga.github.io/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- You need to have git installed in your computer
+- A text editor or terminal
+- A web browser to view output of your project
+
+### Setup
+
+To clone the repository run the command `git clone https://github.com/cynthiainga/Personal_Portfolio.git`
+
+
+## Authors
+
+👤 **Cynthia Inga Candy**
+
+- GitHub: [@cynthiainga](https://github.com/cynthiainga)
+- Twitter: [@CynthiaInga_C](https://twitter.com/CynthiaInga_C)
+- LinkedIn: [Cynthia Inga](https://www.linkedin.com/in/cynthia-inga7/)
+
+## 🤝 Contributing
+
+**Elerqsousy Riz**
+
+GitHub: (https://github.com/Elerqsousy)
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks for my coding parters
+- Hat tip to Microvers curriculum and all the team
+- Hat to Figma for their templates
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
