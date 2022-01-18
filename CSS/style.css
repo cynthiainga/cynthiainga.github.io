@@ -319,7 +319,7 @@ ul {
   letter-spacing: 0.03em;
   padding: 12px;
   margin: 3px 5px;
-  color: var(--secondary);
+  color: #1e7d56;
   background: #fff;
   border-radius: 8px;
 }
@@ -373,7 +373,7 @@ button:active {
   color: #fff;
   border: none;
   border-radius: 4px;
-  background-color: var(--secondary-btn);
+  background-color: #1e7d56;
   letter-spacing: 0.03em;
   padding: 12px;
   margin-bottom: 10px;
@@ -456,6 +456,10 @@ button:active {
 /* Medium devices (landscape tablets, 768px and up) */
 
 @media screen and (min-width: 768px) {
+  *:focus {
+    outline: lightgreen solid 4px;
+  }
+
   header {
     position: fixed;
     left: 0;
@@ -465,7 +469,7 @@ button:active {
     z-index: 1;
   }
 
-  header h2,
+  header .logo,
   nav .show-menu-btn {
     display: none;
   }
@@ -814,7 +818,7 @@ textarea:hover::placeholder {
 }
 
 .card-btn-container .card-btn {
-  background-color: #36b37f;
+  background-color: #1e7d56;
   border: none;
   color: #fff;
   font-size: 0.9rem;
