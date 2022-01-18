@@ -457,8 +457,9 @@ button:active {
 
 @media screen and (min-width: 768px) {
   *:focus {
-      outline: lightgreen solid 2px;
+    outline: lightgreen solid 4px;
   }
+
   header {
     position: fixed;
     left: 0;
@@ -524,7 +525,6 @@ button:active {
     width: 70%;
     margin: 24px auto 44px;
   }
-
 
   .social-media-icons li a img {
     padding: 0 20px;
